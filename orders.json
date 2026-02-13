@@ -1,1 +1,96 @@
-[]
+[
+  {
+    "lines": [
+      {
+        "id": "17709799767210.02845364105553405",
+        "diameter": "7mm",
+        "materialType": "Quartzito",
+        "quantityWires": 70,
+        "metersPerWire": 18.5,
+        "pricingMode": "per_meter",
+        "unitPrice": 18,
+        "totalMeters": 1295,
+        "totalValue": 23310,
+        "quantityWiresText": "70",
+        "metersPerWireText": "18,5",
+        "unitPriceText": "18",
+        "pricePerM2Text": ""
+      }
+    ],
+    "customerName": "teste alex",
+    "vendor": "Alex",
+    "paymentTerm": "30D/60D",
+    "currency": "EUR",
+    "orderNumber": "130226/1",
+    "notes": "",
+    "hasFutureInvoice": false,
+    "totalMeters": 1295,
+    "totalValue": 23310,
+    "createdAt": "2026-02-13T10:53:24.482Z",
+    "status": "draft",
+    "id": "1770980004488"
+  },
+  {
+    "lines": [
+      {
+        "id": "17709754478860.6291045127242414",
+        "diameter": "6mm",
+        "materialType": "Quartzito",
+        "quantityWires": 90,
+        "metersPerWire": 24.43,
+        "pricingMode": "per_meter",
+        "unitPrice": 18,
+        "totalMeters": 2198.7,
+        "totalValue": 39576.6,
+        "quantityWiresText": "90",
+        "metersPerWireText": "24,43",
+        "unitPriceText": "18",
+        "pricePerM2Text": ""
+      }
+    ],
+    "customerName": "Decolores",
+    "vendor": "Alex",
+    "paymentTerm": "30D/60D/90D",
+    "currency": "USD",
+    "orderNumber": "130226/1",
+    "notes": "liga quartzito ",
+    "hasFutureInvoice": false,
+    "totalMeters": 2198.7,
+    "totalValue": 39576.6,
+    "createdAt": "2026-02-13T09:40:40.411Z",
+    "status": "draft",
+    "id": "1770975640417p14wfuv"
+  },
+  {
+    "lines": [
+      {
+        "id": "17709701463760.4355053988362724",
+        "diameter": "5mm",
+        "materialType": "Marmore",
+        "quantityWires": 20,
+        "metersPerWire": 24.27,
+        "pricingMode": "per_meter",
+        "unitPrice": 18,
+        "totalMeters": 485.4,
+        "totalValue": 8737.199999999999,
+        "quantityWiresText": "20",
+        "metersPerWireText": "24,27",
+        "unitPriceText": "18",
+        "pricePerM2Text": ""
+      }
+    ],
+    "customerName": "teste",
+    "vendor": "Vitor",
+    "paymentTerm": "30D/60D/90D",
+    "currency": "EUR",
+    "orderNumber": "130226/1",
+    "notes": "marmore ",
+    "hasFutureInvoice": false,
+    "totalMeters": 485.4,
+    "totalValue": 8737.199999999999,
+    "createdAt": "2026-02-13T08:13:03.857Z",
+    "status": "sent",
+    "id": "17709703838641je54kw",
+    "sentAt": "2026-02-13T08:13:24.811Z"
+  }
+]
