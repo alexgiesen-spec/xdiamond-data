@@ -123,5 +123,36 @@
     "status": "sent",
     "id": "17709703838641je54kw",
     "sentAt": "2026-02-13T08:13:24.811Z"
+  },
+  {
+    "lines": [
+      {
+        "id": "17709924322050.3754252238322947",
+        "diameter": "5mm",
+        "materialType": "Granito",
+        "quantityWires": 15,
+        "metersPerWire": 20,
+        "pricingMode": "per_meter",
+        "unitPrice": 19,
+        "totalMeters": 300,
+        "totalValue": 5700,
+        "quantityWiresText": "15",
+        "metersPerWireText": "20",
+        "unitPriceText": "19",
+        "pricePerM2Text": ""
+      }
+    ],
+    "customerName": "Decolores teste",
+    "vendor": "Alex",
+    "paymentTerm": "30D",
+    "currency": "EUR",
+    "orderNumber": "130226/1",
+    "notes": "",
+    "hasFutureInvoice": false,
+    "totalMeters": 300,
+    "totalValue": 5700,
+    "createdAt": "2026-02-13T14:21:10.321Z",
+    "status": "draft",
+    "id": "1770992471385"
   }
 ]
