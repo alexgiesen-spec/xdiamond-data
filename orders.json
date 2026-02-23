@@ -2,94 +2,32 @@
   {
     "lines": [
       {
-        "id": "17709800350790.5417822344751702",
-        "diameter": "5mm",
-        "materialType": "Quartzito",
-        "quantityWires": 80,
-        "metersPerWire": 20,
+        "id": "17718424441180.49485191126153005",
+        "diameter": "9mm",
+        "materialType": "Granito",
+        "quantityWires": 1,
+        "metersPerWire": 17.25,
         "pricingMode": "per_meter",
-        "unitPrice": 18,
-        "totalMeters": 1600,
-        "totalValue": 28800,
-        "quantityWiresText": "80",
-        "metersPerWireText": "20",
-        "unitPriceText": "18",
+        "unitPrice": 12,
+        "totalMeters": 17.25,
+        "totalValue": 207,
+        "quantityWiresText": "1",
+        "metersPerWireText": "17,25",
+        "unitPriceText": "12",
         "pricePerM2Text": ""
       }
     ],
-    "customerName": "Teste Alex 3 ",
+    "customerName": "Carlos Granitos ",
     "vendor": "Alex",
-    "paymentTerm": "90D/120D",
-    "currency": "USD",
-    "orderNumber": "130226/1",
-    "notes": "Teste ",
-    "hasFutureInvoice": false,
-    "totalMeters": 1600,
-    "totalValue": 28800,
-    "createdAt": "2026-02-13T10:58:44.425Z",
-    "status": "draft",
-    "id": "1770980324436"
-  },
-  {
-    "lines": [
-      {
-        "id": "17709799767210.02845364105553405",
-        "diameter": "7mm",
-        "materialType": "Quartzito",
-        "quantityWires": 70,
-        "metersPerWire": 18.5,
-        "pricingMode": "per_meter",
-        "unitPrice": 18,
-        "totalMeters": 1295,
-        "totalValue": 23310,
-        "quantityWiresText": "70",
-        "metersPerWireText": "18,5",
-        "unitPriceText": "18",
-        "pricePerM2Text": ""
-      }
-    ],
-    "customerName": "teste alex",
-    "vendor": "Alex",
-    "paymentTerm": "30D/60D",
+    "paymentTerm": "30D",
     "currency": "EUR",
-    "orderNumber": "130226/1",
-    "notes": "",
+    "orderNumber": "230226/1",
+    "notes": "Replastificar ",
     "hasFutureInvoice": false,
-    "totalMeters": 1295,
-    "totalValue": 23310,
-    "createdAt": "2026-02-13T10:53:24.482Z",
+    "totalMeters": 17.25,
+    "totalValue": 207,
+    "createdAt": "2026-02-23T10:28:24.661Z",
     "status": "draft",
-    "id": "1770980004488"
-  },
-  {
-    "lines": [
-      {
-        "id": "17709754478860.6291045127242414",
-        "diameter": "6mm",
-        "materialType": "Quartzito",
-        "quantityWires": 90,
-        "metersPerWire": 24.43,
-        "pricingMode": "per_meter",
-        "unitPrice": 18,
-        "totalMeters": 2198.7,
-        "totalValue": 39576.6,
-        "quantityWiresText": "90",
-        "metersPerWireText": "24,43",
-        "unitPriceText": "18",
-        "pricePerM2Text": ""
-      }
-    ],
-    "customerName": "Decolores",
-    "vendor": "Alex",
-    "paymentTerm": "30D/60D/90D",
-    "currency": "USD",
-    "orderNumber": "130226/1",
-    "notes": "liga quartzito ",
-    "hasFutureInvoice": false,
-    "totalMeters": 2198.7,
-    "totalValue": 39576.6,
-    "createdAt": "2026-02-13T09:40:40.411Z",
-    "status": "draft",
-    "id": "1770975640417p14wfuv"
+    "id": "1771842504876"
   }
 ]
