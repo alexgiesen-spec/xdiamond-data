@@ -2,7 +2,7 @@
   {
     "lines": [
       {
-        "id": "17718424441180.49485191126153005",
+        "id": "17718426025830.10167705271283889",
         "diameter": "9mm",
         "materialType": "Granito",
         "quantityWires": 1,
@@ -17,17 +17,17 @@
         "pricePerM2Text": ""
       }
     ],
-    "customerName": "Carlos Granitos ",
+    "customerName": "Carlos Granitos",
     "vendor": "Alex",
     "paymentTerm": "30D",
     "currency": "EUR",
     "orderNumber": "230226/1",
-    "notes": "Replastificar ",
+    "notes": "replastificar",
     "hasFutureInvoice": false,
     "totalMeters": 17.25,
     "totalValue": 207,
-    "createdAt": "2026-02-23T10:28:24.661Z",
+    "createdAt": "2026-02-23T10:31:23.093Z",
     "status": "draft",
-    "id": "1771842504876"
+    "id": "1771842683157"
   }
 ]
